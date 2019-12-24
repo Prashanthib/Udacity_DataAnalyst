@@ -9,12 +9,8 @@ temperatures.
 In this project, I have investigated and analyzed the TMDb movie dataset. This dataset contains the TMDb Movie data set contains data for 10,000 movies from the movie database(TMDb), including user ratings and revenue. In this project, I mainly did Exploratory analysis to answer research questions such as top-rated movies, top budgeted movies, most preferred actors, etc.
 
 # Project3 - A_B_Test Analysis
-A/B tests are very commonly performed by data analysts and data scientists.  It is important that you get some practice working with
-the difficulties of these 
-
-For this project, you will be working to understand the results of an A/B test run by an e-commerce website.  My goal 
-was to work through this to help the company understand if they should implement the new page, keep the old page, or 
-perhaps run the experiment longer to make their decision. 
+A/B tests are very commonly performed by data analysts and data scientists. It is important that we get some practice working with the difficulties of these
+For this project, I have worked to understand the results of an A/B test run by an e-commerce website. My goal was to work through this to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 # Project4 - Data Wrangling
 
